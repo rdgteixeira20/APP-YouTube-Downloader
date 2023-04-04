@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="ytlogo">
+    <file>ytlogo.png</file>
+  </qresource>
+</RCC>
